@@ -1,0 +1,4 @@
+﻿  ConFps.cpp
+c:\users\dhruv\source\repos\confps\confps\confps.cpp(233): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\dhruv\source\repos\confps\confps\confps.cpp(312): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ConFps.vcxproj -> C:\Users\Dhruv\source\repos\ConFps\Debug\ConFps.exe
