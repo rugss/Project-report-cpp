@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+c:\users\dhruv\source\repos\consoleapplication1\consoleapplication1\olcconsolegameenginegl.h(1229): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dhruv\source\repos\consoleapplication1\consoleapplication1\olcconsolegameenginegl.h(1796): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\dhruv\source\repos\consoleapplication1\consoleapplication1\olcconsolegameenginegl.h(1893): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+c:\users\dhruv\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(618): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dhruv\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(625): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dhruv\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(363): warning C4715: 'olcEngine3D::Triangle_ClipAgainstPlane': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\Dhruv\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

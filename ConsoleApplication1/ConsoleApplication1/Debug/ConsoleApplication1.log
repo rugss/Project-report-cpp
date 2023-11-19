@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\dhruv\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(642): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\dhruv\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(370): warning C4715: 'olcEngine3D::Triangle_ClipAgainstPlane': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\Dhruv\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
